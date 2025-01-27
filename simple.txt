@@ -4,3 +4,5 @@ this is modified.
 this is added by branch dev1
 
 this is newly created by dev1.
+
+This is from bare repo
